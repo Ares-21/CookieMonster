@@ -1,11 +1,10 @@
 
 # CookieMonster
 
-Collect all the cookies saved in the browser, this is a post exploitation tool useful to gain access to the victims sessions of all the saved cookies in the browser 
+Collect all the cookies saved in the browser, this is a post-exploitation tool useful to gain access to the victim sessions of all the saved cookies in the browser 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developed%20on-Kali%20Linux-blueviolet" alt="Developed on Kali">
-  <img src="https://img.shields.io/badge/PowerShell-v3.0+-blue" alt="PowerShell">
   <img src="https://img.shields.io/badge/Python-v3.8+-blue" alt="Python">
 </p>
 
